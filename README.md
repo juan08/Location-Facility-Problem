@@ -1,0 +1,2 @@
+# Location-Facility-Problem
+The P-median problem is to find the location of P facilities on a net- work so that the total cost is minimized. The cost of serving demands at node i 2 I is given by the product of the demand at node i 2 I and EBSCOhost - printed on 3/23/2021 7:11 AM via RENNES SCHOOL OF BUSINESS. All use subject to https://www.ebsco.com/terms-of-use238 Chapter 6 Median Problems the distance between demand node i 2 I and the nearest facility to node i 2 I.
